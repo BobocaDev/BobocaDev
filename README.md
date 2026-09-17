@@ -30,28 +30,6 @@
 
 ---
 
-### 🔐 Trilha de estudo
-
-- [x] Fundamentos de JavaScript / Node.js
-- [x] Lógica de redes (TCP/IP, portas, protocolos)
-- [ ] Criptografia aplicada (hashing, AES, salting)
-- [ ] Web Security (OWASP Top 10)
-- [ ] Pentest básico em ambiente controlado (labs, CTFs)
-- [ ] Certificações (ex: eJPT, CompTIA Security+)
-
----
-
-### 📌 Projetos em destaque
-
-| Projeto | Descrição |
-|---|---|
-| 🔑 `password-strength-checker` | Valida força de senha e estima tempo de quebra por força bruta |
-| 🕵️ `phishing-url-detector` | Analisa URLs em busca de padrões suspeitos de phishing |
-| 🧾 `hash-integrity-checker` | Gera e compara hashes (SHA-256/MD5) para verificar integridade de arquivos |
-| 🛡️ `http-security-headers-scanner` | Verifica headers de segurança de um site (CSP, HSTS, etc.) |
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -66,9 +44,8 @@
 ### 📫 Contato
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Twitter%2FX-000000?style=flat-square&logo=x&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white">
+  &nbsp;<b>voidexebr</b>
 </p>
 
 <p align="center"><i>"Toda vulnerabilidade encontrada hoje é um exploit evitado amanhã."</i></p>

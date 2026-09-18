@@ -17,8 +17,6 @@
 - 📚 Documentando erros e aprendizados no caminho (sim, os bugs também contam)
 - ⚡ Fun fact: todo bug corrigido é uma vulnerabilidade a menos no mundo
 
-
-
 ---
 
 ### 🛠️ Stack & Ferramentas
@@ -30,9 +28,6 @@
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-
-
-
 ---
 
 ### 📊 GitHub Stats
@@ -43,6 +38,17 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BobocaDev&theme=radical" alt="GitHub Streak" />
 </p>
+
+---
+
+### 📜 Certificações
+
+<p align="center">
+  <a href="https://www.credly.com/badges/d826529b-d195-4d39-b5b6-f51a33e93806">
+    <img src="assets/introduction-to-cybersecurity.png" alt="Cisco Introduction to Cybersecurity" width="150" />
+  </a>
+</p>
+<p align="center"><b>Cisco Networking Academy</b> — Introduction to Cybersecurity<br/><sub>clique no badge para verificar no Credly</sub></p>
 
 ---
 

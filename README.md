@@ -41,7 +41,7 @@
 
 ---
 
-### 📜 Certificações
+### 📜 Badges
 
 <p align="center">
   <a href="https://www.credly.com/badges/d826529b-d195-4d39-b5b6-f51a33e93806">

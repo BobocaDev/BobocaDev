@@ -17,6 +17,8 @@
 - 📚 Documentando erros e aprendizados no caminho (sim, os bugs também contam)
 - ⚡ Fun fact: todo bug corrigido é uma vulnerabilidade a menos no mundo
 
+
+📄 [Certificado - Introduction to Cybersecurity (Cisco)](certificados/I2CSUpdate20260918-21-r3d4m0.pdf)
 ---
 
 ### 🛠️ Stack & Ferramentas
@@ -27,6 +29,9 @@
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+
+
 
 ---
 

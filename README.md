@@ -18,7 +18,7 @@
 - ⚡ Fun fact: todo bug corrigido é uma vulnerabilidade a menos no mundo
 
 
-📄 [Certificado - Introduction to Cybersecurity (Cisco)](certificados/I2CSUpdate20260918-21-r3d4m0.pdf)
+
 ---
 
 ### 🛠️ Stack & Ferramentas
